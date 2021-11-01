@@ -1,0 +1,4 @@
+MVC:
+
+Models - Dados da aplicação(Centralizar as regras de negocio(manipular informações)
+Views - Servem para representação de modelos práticos
