@@ -101,14 +101,5 @@
 </table>
 
 
-### [INSTRUÇÕES] - CRIANDO ARQUIVOS - CSS (Visual)
-
-Na função criada de responsividade, existem as seguintes medidas:
-
-| Dispositivo                 | Largura    |
-| Extra largo (desktop)       | 1340px     |
-| médio (laptop)              | 1024px     |
-| pequeno (tablet)            | 780px      |
-| extra pequeno (mobile)      | 450px      |
 
 
