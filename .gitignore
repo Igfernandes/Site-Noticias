@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Node Modules
+node_modules/
+
 # Folder config file
 Desktop.ini
 
@@ -57,7 +60,4 @@ assets/.sass-cache/
 
 *.psd
 
-# Node Modules
-
-**/node_modules
 
